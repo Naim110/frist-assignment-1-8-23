@@ -1,0 +1,199 @@
+body {
+    font-family: 'Work Sans';
+    margin: 0;
+    padding: 0;
+}
+
+/*banner section*/
+* {
+    font-family: 'Work Sans';
+}
+
+.banner {
+
+    background-image: ;
+    position: absolute;
+    width: 1600px;
+    height: 808px;
+    left: 0px;
+    top: 0px;
+    background-size: cover;
+    background: url(images/banner/banner3.png);
+}
+
+.banner-text {
+    margin-top: 250px;
+    margin-left: 900px;
+    text-align: "right";
+
+
+}
+
+.banner-title {
+    color: #FFFFFF;
+    text-align: right;
+    margin-right: 300px;
+
+}
+
+.description {
+    color: #FFFFFF;
+    text-align: "right";
+    text-align: right;
+    margin-right: 300px;
+}
+
+.ft-btn {
+    border: none;
+    border-radius: 5px;
+    padding: 20px 25px;
+    font-size: 20px;
+    font-family: 'Work Sans';
+    text-align: right;
+    margin-right: 300px;
+    color: 005FAC;
+}
+
+/*about secation*/
+.about {
+    background-image: url(images/person.png);
+    position: absolute;
+    width: 1072px;
+    height: 723.3px;
+    left: 206px;
+    top: 939px;
+    background-repeat: no-repeat;
+
+
+}
+
+.about-title {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #151414;
+    margin-left: 600px;
+    padding-top: 200px;
+}
+
+.about-des {
+    margin-left: 600px;
+    margin-top: 100px;
+
+}
+
+ul li {
+    margin-left: 600px;
+}
+
+/*the plans section*/
+.the-plans h1 {
+    font-size: 40px;
+}
+
+.the-plans {
+    position: absolute;
+    width: 179px;
+    height: 47px;
+    left: 765px;
+    top: 1792px;
+    font-family: 'Work Sans';
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+}
+
+.palns-cointer {
+    display: flex;
+    position: absolute;
+    width: 1141px;
+    height: 202.96px;
+    left: 230px;
+    top: 1889px;
+    padding: 20px 20px;
+}
+
+.plans {
+    margin-right: 20%;
+    text-align: center;
+    margin-top: 50px;
+}
+
+/*gradient section*/
+
+.linear-gra {
+    background-image: url(images/watch.png);
+    height: 300px;
+    width: 1140px;
+    margin-top: 2250px;
+    margin-left: 250px;
+    margin-bottom: 100px;
+
+}
+
+.gra-title {
+    font-size: 40px;
+    font-style: normal;
+    font-family: sans-serif;
+    padding: 25px 25px;
+    color: #FFFFFF;
+
+}
+
+.btn-gra {
+    margin-left: 25px;
+    font-style: normal;
+    font-family: sans-serif;
+    color: 005FAC;
+}
+
+
+/*footer section*/
+
+.footer-section {
+    height: 577px;
+    width: 1600px;
+    background-color: black;
+    color: #FFFFFF;
+    left: 0px;
+    top: 0px;
+    display: flex;
+
+}
+
+.Future {
+    margin-left: 250px;
+    margin-top: 80px;
+    0px;
+
+}
+
+.Future h1 {
+    font-size: 45px;
+}
+
+.icon {
+    height: 43px;
+    width: 174px;
+
+}
+
+.sub {
+    height: 28px;
+    width: 118px;
+    font-size: 24px;
+    float: right;
+    margin: 80px 300px;
+}
+
+#sub-email {
+    border: 1px solid #FFFFFF;
+    border-radius: 3px;
+    background-color: black;
+    color: #FFFFFF;
+    padding: 10px 10px 10px;
+    width: 325px;
+    height: 64px;
+}
